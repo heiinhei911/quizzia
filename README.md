@@ -5,12 +5,15 @@ Demo: [https://heiinhei911.github.io/quizzia/](https://heiinhei911.github.io/qui
 
 ## How to Play
 
-Once you are in the website, click "I'm ready" to get started.\
+Once you are in the website, click "I'm ready" to get started.
+
 You will then be taken into another screen with five questions for you to answer.\
-After all questions have been answered, you can check your answers by clicking "Check Answers" button.\
+After all questions have been answered, you can check your answers by clicking "Check Answers" button.
+
 If you get a question correct, your option will turn green.\
 Conversely, if you get a question incorrect, your option will turn red.\
-Any other options that are not selected will be grayed out.\
+Any other options that are not selected will be grayed out.
+
 Finally, your score out of 5 will shown at the bottom.
 
 You can also click on the "New questons" button at anytime to generate a new sets of questions.
