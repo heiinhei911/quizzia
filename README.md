@@ -18,11 +18,15 @@ Finally, your score out of 5 will shown at the bottom.
 
 You can also click on the "New questons" button at anytime to generate a new sets of questions.
 
-# API
+## API
 
 The API for this project was provided by [opentdb.com](https://opentdb.com)
 
-# Credits
+## Note
+
+Your progress of the game will be automatically saved to the browser so you have come back at anytime and pick up on where you have left off.
+
+## Credits
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
 Created by Steve Sam
