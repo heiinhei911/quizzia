@@ -1,0 +1,24 @@
+.ans-option {
+  margin: 1rem 1rem 1rem 0;
+  padding: 0.2rem 1rem;
+  border: 1px solid var(--ans-option-border-color);
+  border-radius: 10px;
+  cursor: pointer;
+  text-align: center;
+  transition: background-color 500ms;
+}
+
+@media only screen and (max-width: 600px) {
+  .ans-option {
+    margin: 0.5rem 0;
+    padding: 0.8rem;
+    width: 80vw;
+    font-size: 1.2rem;
+  }
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .ans-option:hover {
+    background-color: var(--mobile-ans-option-hover-bkg-color);
+  }
+}
