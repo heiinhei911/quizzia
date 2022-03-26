@@ -20,7 +20,7 @@ You can also click on the "New questons" button at anytime to generate a new set
 
 ## API
 
-The API for this project was provided by [opentdb.com](https://opentdb.com)
+The API for this project was provided by [opentdb.com](https://opentdb.com).
 
 ## Note
 
@@ -28,5 +28,7 @@ Your progress of the game will be automatically saved to the browser so you have
 
 ## Credits
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+Special thanks to [opentdb.com](https://opentdb.com).\
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 Created by Steve Sam
