@@ -16,6 +16,7 @@
   color: var(--q-color);
   margin-top: 0.5rem;
   word-wrap: break-word;
+  max-width: 1500px;
 }
 
 .answers {
@@ -27,7 +28,7 @@
   border-bottom: 1px solid var(--answers-bottom-border-color);
   margin-bottom: 1rem;
   width: 90vw;
-  max-width: 90vw;
+  max-width: 1500px;
 }
 
 .message {
@@ -57,10 +58,13 @@
   .answers {
     flex-direction: column;
     justify-content: center;
+    width: 100%;
+    padding-bottom: 1rem;
   }
 
   .question-text {
     margin-bottom: 1rem;
+    max-width: 90vw;
   }
 
   .bottom-btns {
