@@ -33,6 +33,10 @@
   transition: font 1s;
 }
 
+.questions {
+  max-width: 100%;
+}
+
 .buttons {
   background-color: var(--buttons-bkg-color);
   color: var(--buttons-text-color);
@@ -43,8 +47,8 @@
 
 @media only screen and (max-width: 600px) {
   .App {
-    max-width: 90vw;
-    min-width: 90vw;
+    max-width: 100%;
+    min-width: 100%;
     padding: 1rem;
   }
 }

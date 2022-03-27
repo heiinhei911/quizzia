@@ -219,7 +219,7 @@ function App() {
   // Rendering questions and answers
   const game = questions.map((data, i) => {
     return (
-      <div id={`question-${i + 1}`} key={data.id}>
+      <div id={`question-${i + 1}`} className="questions" key={data.id}>
         <Question
           key={data.id}
           question={data.question}
